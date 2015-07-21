@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MasterProject" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MasterProject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-msse4.2" />
+					<Add directory="/usr/local/include/opencv" />
+					<Add directory="/usr/local/include/opencv2" />
+					<Add directory="include" />
+					<Add directory="/home/fangsheng/mp/rpg_vikit-master/vikit_common/include" />
+					<Add directory="/usr/include/suitesparse" />
+					<Add directory="/usr/include/eigen3" />
+				</Compiler>
+				<Linker>
+					<Add option="-lboost_system" />
+					<Add option="-lboost_thread" />
+					<Add library="/usr/local/lib/libopencv_calib3d.so" />
+					<Add library="/usr/local/lib/libopencv_contrib.so" />
+					<Add library="/usr/local/lib/libopencv_core.so" />
+					<Add library="/usr/local/lib/libopencv_features2d.so" />
+					<Add library="/usr/local/lib/libopencv_flann.so" />
+					<Add library="/usr/local/lib/libopencv_gpu.so" />
+					<Add library="/usr/local/lib/libopencv_highgui.so" />
+					<Add library="/usr/local/lib/libopencv_imgproc.so" />
+					<Add library="/usr/local/lib/libopencv_legacy.so" />
+					<Add library="/usr/local/lib/libopencv_ml.so" />
+					<Add library="/usr/local/lib/libopencv_nonfree.so" />
+					<Add library="/usr/local/lib/libopencv_objdetect.so" />
+					<Add library="/usr/local/lib/libopencv_ocl.so" />
+					<Add library="/usr/local/lib/libopencv_photo.so" />
+					<Add library="/usr/local/lib/libopencv_stitching.so" />
+					<Add library="/usr/local/lib/libopencv_superres.so" />
+					<Add library="/usr/local/lib/libopencv_ts.a" />
+					<Add library="/usr/local/lib/libopencv_video.so" />
+					<Add library="/usr/local/lib/libopencv_videostab.so" />
+					<Add library="/home/fangsheng/mp/rpg_vikit-master/vikit_common/lib/libvikit_common.so" />
+					<Add library="/home/fangsheng/mp/fast-master/build/libfast.so" />
+					<Add directory="/usr/local/lib" />
+					<Add directory="/home/fangsheng/mp/rpg_svo-master/svo/lib" />
+					<Add directory="/home/fangsheng/mp/fast-master/build" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MasterProject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Motion.cpp" />
+		<Unit filename="Motion.h" />
+		<Unit filename="OpticalFlow.cpp" />
+		<Unit filename="OpticalFlow.h" />
+		<Unit filename="TwoPassArm.cpp" />
+		<Unit filename="TwoPassArm.h" />
+		<Unit filename="config.cpp" />
+		<Unit filename="config.h" />
+		<Unit filename="depth_filter.cpp" />
+		<Unit filename="depth_filter.h" />
+		<Unit filename="feature.h" />
+		<Unit filename="feature_alignment.cpp" />
+		<Unit filename="feature_alignment.h" />
+		<Unit filename="feature_detection.cpp" />
+		<Unit filename="feature_detection.h" />
+		<Unit filename="frame.cpp" />
+		<Unit filename="frame.h" />
+		<Unit filename="frame_handler_base.cpp" />
+		<Unit filename="frame_handler_base.h" />
+		<Unit filename="frame_handler_mono.cpp" />
+		<Unit filename="frame_handler_mono.h" />
+		<Unit filename="global.h" />
+		<Unit filename="include/TwoPassArm.h" />
+		<Unit filename="initialization.cpp" />
+		<Unit filename="initialization.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="main.h" />
+		<Unit filename="map.cpp" />
+		<Unit filename="map.h" />
+		<Unit filename="matcher.cpp" />
+		<Unit filename="matcher.h" />
+		<Unit filename="point.cpp" />
+		<Unit filename="point.h" />
+		<Unit filename="pose_optimizer.cpp" />
+		<Unit filename="pose_optimizer.h" />
+		<Unit filename="reprojector.cpp" />
+		<Unit filename="reprojector.h" />
+		<Unit filename="sparse_img_align.cpp" />
+		<Unit filename="sparse_img_align.h" />
+		<Unit filename="src/TwoPassArm.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

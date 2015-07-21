@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="frame_handler_mono.h" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1006" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="TwoPassArm.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3354" topLine="98" />
+		</Cursor>
+	</File>
+	<File name="frame_handler_mono.cpp" open="1" top="0" tabpos="28" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1921" topLine="66" />
+		</Cursor>
+	</File>
+	<File name="pose_optimizer.h" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="893" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="frame_handler_base.cpp" open="1" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="87" />
+		</Cursor>
+	</File>
+	<File name="frame_handler_base.h" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1075" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="map.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="949" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="reprojector.h" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="910" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="feature_alignment.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="898" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.h" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="feature_detection.cpp" open="1" top="0" tabpos="27" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4005" topLine="91" />
+		</Cursor>
+	</File>
+	<File name="Motion.h" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="201" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Motion.cpp" open="1" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="161" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="point.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="910" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="initialization.h" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="891" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="OpticalFlow.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7353" topLine="222" />
+		</Cursor>
+	</File>
+	<File name="frame.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1777" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="feature.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="878" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="global.h" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="depth_filter.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1055" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="sparse_img_align.h" open="1" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="967" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="OpticalFlow.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7313" topLine="22" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="36" />
+		</Folding>
+	</File>
+	<File name="TwoPassArm.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="670" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="feature_detection.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="918" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="config.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="config.cpp" open="1" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="matcher.h" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="879" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
